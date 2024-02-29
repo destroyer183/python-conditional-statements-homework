@@ -5,7 +5,6 @@ from re import A
 import tkinter as tk
 import math
 import statistics
-from tabulate import tabulate
 from tkinter import *
 from tkinter import ttk
 
